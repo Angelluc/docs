@@ -1,11 +1,11 @@
-## Chamilo, what is it ? {#chamilo-what-is-it}
+## Chamilo, wat is het ? {#chamilo-wat-is-het}
 
-Chamilo LMS is an e-learning system (that is it manages learning) developed in a collaborative way by several companies, associations and people, through an open model called « free software » (as in _freedom_).
+Chamilo LMS is een e-learning-systeem (dat wil zeggen: het beheert het leren) dat is ontwikkeld door samenwerking van verschillende bedrijven, verenigingen en mensen, via een open model met de naam «vrije software» (zoals in _vrijheid_).
 
-You can download and use Chamilo freely, given you accept its license (GNU/GPLv3) which gives you, in short, four essential freedoms, given your compromise to maintain those freedoms : the freedom to use, study, modify and distribute the software.
+U kunt Chamilo gratis downloaden en gebruiken, op de voorwaarde dat u de licentie (GNU / GPLv3) accepteert die, kort gezegd, vier essentiële vrijheden geeft en op de voorwaarde die vrijheden te handhaven: de vrijheid om de software te gebruiken, te bestuderen, aan te passen en te verspreiden.
 
-![](../assets/images268.png)Illustration 1: Right to use, study and modify, share and distribute the software
+! [] (../ assets / images268.png) Illustratie 1: het recht om de software te gebruiken, bestuderen en wijzigen, delen en verspreiden
 
-Chamilo is not only developed collaboratively by dozens of people in the world at large ; it is also supported by a non-profit association with the objective of promoting the platform and ensure its continuity. In this sense, Chamilo LMS is the only free software e-learning platform that generates so many guarantees of open access.
+Chamilo is niet alleen door tientallen mensen in de hele wereld samen ontwikkeld; het wordt ook ondersteund door een vereniging zonder winstoogmerk met als doel het platform te promoten en zijn continuïteit te waarborgen. In die zin is Chamilo LMS het enige gratis e-learning platform voor software dat zoveel garanties voor open toegang genereert.
 
-You can contribute to Chamilo too, promoting its use, reporting errors, suggesting improvements, translating it (or its manuals) to your native language, or even developing extensions or fixes by yourself.
+U kunt ook bijdragen aan Chamilo, het gebruik ervan promoten, fouten melden, verbeteringen voorstellen, het (of de handleidingen) vertalen naar uw moedertaal, of zelfs zelf uitbreidingen of oplossingen ontwikkelen.
